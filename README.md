@@ -1,6 +1,6 @@
 # My-_-project
 
-NOTE: V17 does NOT cancel previous versions.
+```NOTE: V17 does NOT cancel previous versions.
 ‎V17 is a continuation of them.
 ‎It completes the same model, it does not replace it.
 ‎# SPACETIME & BLACK HOLES MODULES
@@ -568,5 +568,5 @@ NOTE: V17 does NOT cancel previous versions.
 ‎RULE 8: Growth By Merger Only.
 ‎  Black Hole + Black Hole = Bigger Black Hole. Size Increases By Merger, Not By Eating.
 ‎
-‎END OF CQF v17 - BLACK HOLES MODULE
+‎END OF CQF v17 - BLACK HOLES MODULE```
 ‎
