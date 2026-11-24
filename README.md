@@ -1,3 +1,7 @@
+# CQP-TOE
+
+Each version is a new chapter, they complete each other. Read them all in order.
+Latest: https://doi.org/10.5281/zenodo.24465041
 # CQF-TOE
 
 NOTE: V17 does NOT cancel previous versions.
